@@ -8,11 +8,7 @@
 		"start": "ts-node src/index.ts",
 		"dev": "nodemon src/index.ts",
 		"build": "tsc",
-		"lint": "eslint",
-		"migration:generate": "yarn typeorm migration:generate -d ./src/config/database.config.ts",
-		"migration:run": "yarn typeorm migration:run -d ./src/config/database.config.ts",
-		"migration:revert": "yarn typeorm migration:revert -d ./src/config/database.config.ts",
-		"schema:sync": "yarn typeorm schema:sync -d ./src/config/database.config.ts"
+		"lint": "eslint"
 	},
 	"author": "",
 	"license": "ISC",

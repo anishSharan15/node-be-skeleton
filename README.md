@@ -26,16 +26,8 @@
 yarn start
 ```
 
-#### Building the project
-```sh
-yarn build
-```
-
 #### Linting and Formatting
 ```sh
 yarn lint  # Runs ESLint
-```
-```sh
-yarn format  # Runs Prettier
 ```
 

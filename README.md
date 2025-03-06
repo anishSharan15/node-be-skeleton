@@ -16,14 +16,14 @@
 
 2. Install dependencies:
    ```sh
-   yarn install
+   yarn
    ```
 
 ### Development
 
 #### Running the project
 ```sh
-yarn dev
+yarn start
 ```
 
 #### Building the project
